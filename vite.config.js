@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ["framer-motion"],
+      external: ["/framer-motion"],
     },
   },
 });
