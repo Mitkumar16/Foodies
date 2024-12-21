@@ -1,4 +1,4 @@
-import React from "react";
+
 import Food1 from "../../assets/food/food.png";
 import Food2 from "../../assets/food/food2-plate.png";
 import Food3 from "../../assets/food/banner.png";
